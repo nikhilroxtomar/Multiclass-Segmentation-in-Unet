@@ -6,6 +6,12 @@ A simple multiclass segmentation tutorial on the Oxford-IIIT Pet dataset using t
 
 Download the dataset: [https://www.robots.ox.ac.uk/~vgg/data/pets](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
+## Results
+The images given below are in the sequence: (1) Input Image, (2) Ground Truth, (3) Predicted Mask  <br/><br/>
+<img src="results/Abyssinian_2.jpg">
+<img src="results/Abyssinian_224.jpg">
+<img src="results/Abyssinian_232.jpg">
+
 ## Contact:
 For more follow me on:
 
