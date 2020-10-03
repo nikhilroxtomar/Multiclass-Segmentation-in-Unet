@@ -1,6 +1,6 @@
 # Multiclass-Segmentation-in-Unet
 A simple multiclass segmentation tutorial on the Oxford-IIIT Pet dataset using the U-Net architecture.
-<br/> <br/>
+<br/>
 Video explaination: [https://youtu.be/afqf_sxDyiY](https://youtu.be/afqf_sxDyiY)
 
 ## Dataset:
